@@ -16,7 +16,7 @@
 
 ### 📬 Connect with Me
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/matas-gustas/](https://linkedin.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/matas-gustas/](https://www.linkedin.com/in/matas-gustas/)
 * 📧 **Email:** magustas005@gmail.com
 <!--
 **MatasGDev/MatasGDev** is a special repository because its `README.md` (this file) appears on your GitHub profile.
